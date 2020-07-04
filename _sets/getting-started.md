@@ -1,4 +1,4 @@
 ---
-title: Getting Started
-description: This series guides you through getting started on our platform.
+title: DevOps
+description: Articles about DevOps Tools Chain.
 ---
